@@ -5,17 +5,13 @@
 
 ## Collection of Routine Information
 
-This [[Avengers Recognizer]] track basic information about their [[ "users"]]. This information includes, but is not limited to, IP addresses, [[ "app"]] details, timestamps and referring pages. None of this information can personally identify specific [[ "user"]] to this [[ "app"]]. The information is tracked for routine administration and maintenance purposes.
+This [[Avengers Recognizer]] does not collect any kind of information from [[ "users"]]. 
 
 
 ## Cookies
 
-Where necessary, this [[ "app"]] uses cookies to store information about a visitor’s preferences and history in order to better serve the [["user"]] and/or present the [[ "user"]] with customized content.
+Where necessary, this [[ "app"]] dosent uses cookies to store information about a visitor’s 
 
-
-## Advertisement and Other Third Parties
-
-Advertising partners and other third parties may use cookies, scripts and/or web beacons to track [["user"]] activities on this [["app"]] in order to display advertisements and other useful information. Such tracking is done directly by the third parties through their own servers and is subject to their own privacy policies. This [["app"]] has no access or control over these cookies, scripts and/or web beacons that may be used by third parties. Learn how to [opt out of Google’s cookie usage](http://www.google.com/privacy_ads.html).
 
 
 ## Links to Third Party Websites
@@ -25,7 +21,7 @@ Advertising partners and other third parties may use cookies, scripts and/or web
 
 ## Security
 
-The security of your personal information is important to [["me"]], but remember that no method of transmission over the Internet, or method of electronic storage, is 100% secure. While [["I"]] strive to use commercially acceptable means to protect your personal information, [["I"]] cannot guarantee its absolute security.
+The security of your Personal Information is important to [["me"]], but remember that no method of transmission over the Internet, or method of electronic storage is 100% secure. While [["I"]] seeks to use commercially acceptable means to protect your personal information, [["I"]] cannot guarantee its absolute security (be aware that this application does not collect information or data from you in the first place, so you You do not risk any kind of data in using this application).
 
 
 ## Changes To This Privacy Policy
